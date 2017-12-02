@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"leucre","characterIndex":0,"characterName":"Leucre","classId":6,"equips":[6,6,0,7,50],"faceIndex":0,"faceName":"leucre","traits":[],"initialLevel":1,"maxLevel":99,"name":"Leucre","nickname":"Mercenary","note":"","profile":""},
+{"id":2,"battlerName":"Miana","characterIndex":0,"characterName":"Miana","classId":2,"equips":[17,0,0,7,0],"faceIndex":0,"faceName":"Miana","traits":[],"initialLevel":1,"maxLevel":99,"name":"Miana","nickname":"The Princess","note":"","profile":""},
+{"id":3,"battlerName":"soothsayer","characterIndex":0,"characterName":"soothsayer","classId":3,"equips":[28,0,2,3,9],"faceIndex":0,"faceName":"soothsayer","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sage","nickname":"Sage","note":"","profile":""},
+{"id":4,"battlerName":"koji","characterIndex":0,"characterName":"koji","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Koji","traits":[],"initialLevel":1,"maxLevel":99,"name":"Koji","nickname":"Mercenary","note":"","profile":""},
+{"id":5,"battlerName":"redlady","characterIndex":2,"characterName":"koji","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Koji","traits":[],"initialLevel":1,"maxLevel":99,"name":"Red Lady","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"DragonBorn","characterIndex":4,"characterName":"koji","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Koji","traits":[],"initialLevel":1,"maxLevel":99,"name":"DRAGON DUDE","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"Miana","characterIndex":0,"characterName":"Miana","classId":2,"equips":[17,26,0,7,0],"faceIndex":0,"faceName":"Miana","traits":[],"initialLevel":2,"maxLevel":99,"name":"Miana Test","nickname":"The Princess","note":"","profile":""},
+{"id":10,"battlerName":"leucre","characterIndex":0,"characterName":"Leucre","classId":6,"equips":[6,37,0,7,50],"faceIndex":0,"faceName":"leucre","traits":[],"initialLevel":3,"maxLevel":99,"name":"Leucre Test","nickname":"","note":"","profile":""}
+]
